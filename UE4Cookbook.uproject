@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.16",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4Cookbook",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"IOS",
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"TVOS",
+		"WindowsNoEditor"
+	]
+}
