@@ -7,7 +7,11 @@
 		{
 			"Name": "UE4Cookbook",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CoreUObject",
+				"Engine"
+			]
 		}
 	],
 	"TargetPlatforms": [
